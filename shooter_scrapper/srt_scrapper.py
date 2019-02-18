@@ -5,7 +5,6 @@ import logging
 import random
 import time
 import settings
-import requests
 import scrapy
 
 class SrtScrapper(object):
