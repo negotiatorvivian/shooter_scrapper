@@ -3,7 +3,7 @@ pyquery==1.4.0
 PySocks==1.6.8
 pysrt==1.1.1
 pytz==2018.5
-PyYAML==3.13
+PyYAML==5.4
 queuelib==1.5.0
 requests==2.19.1
 scrapinghub==2.1.0
